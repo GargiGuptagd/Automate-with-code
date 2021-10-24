@@ -1,4 +1,4 @@
-Name: 
-    * Place:
-    * Bio:
-    * Github Profile:
+#### Name: 
+- Place:
+- Bio:
+- Github Profile:
